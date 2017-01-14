@@ -1,0 +1,15 @@
+
+
+CREATE TABLE [tresmes].[Relacion_CENTRO_CUENTA](
+	[Concepto] [varchar](200) NOT NULL,
+	[CuentaContable] [varchar](250) NULL,
+	[ContraCuenta] [varchar](250) NULL,
+ CONSTRAINT [PK_Relacion_CENTRO_CUENTA] PRIMARY KEY CLUSTERED 
+(
+	[Concepto] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+
+

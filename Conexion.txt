@@ -1,0 +1,4 @@
+ServerName=DESKTOP-NCG64O4\SMGCONSULORES
+DbName=EXACTUS
+UserName=josue
+Password=vitoria24

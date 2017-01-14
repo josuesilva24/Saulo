@@ -1,0 +1,6 @@
+ServerName=DESKTOP-NCG64O4\SMGCONSULORES
+DbName=tresM
+UserName=josue
+Password=victoria24
+compania=tresM,tresmES,tresmGT
+exclude=99-

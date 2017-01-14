@@ -1,0 +1,9 @@
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\bin\Debug\Inactivación Masiva de Centros de Costo.exe
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\bin\Debug\Inactivación Masiva de Centros de Costo.pdb
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\Inactivación_Masiva_de_Centros_de_Costo.Form1.resources
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\Inactivación_Masiva_de_Centros_de_Costo.Properties.Resources.resources
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\InactivacionMasivaDeCentrosDeCostok9.csproj.GenerateResource.Cache
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\Inactivación Masiva de Centros de Costo.exe
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\Inactivación Masiva de Centros de Costo.pdb
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\InactivacionMasivaDeCentrosDeCostok9.csprojResolveAssemblyReference.cache
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\Inactivación Masiva de Centros de Costo\obj\x86\Debug\Inactivación Masiva de Centros de Costo.exe
