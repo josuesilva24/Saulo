@@ -7,3 +7,8 @@ E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DTOK9\bin\Debug\DTOK9.pdb
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DTOK9\obj\Debug\DTOK9.csprojResolveAssemblyReference.cache
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DTOK9\obj\Debug\DTOK9.dll
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DTOK9\obj\Debug\DTOK9.pdb
+E:\Proyectos\SauloGit\DTOK9\bin\Debug\DTOK9.dll
+E:\Proyectos\SauloGit\DTOK9\bin\Debug\DTOK9.pdb
+E:\Proyectos\SauloGit\DTOK9\obj\Debug\DTOK9.csprojResolveAssemblyReference.cache
+E:\Proyectos\SauloGit\DTOK9\obj\Debug\DTOK9.dll
+E:\Proyectos\SauloGit\DTOK9\obj\Debug\DTOK9.pdb

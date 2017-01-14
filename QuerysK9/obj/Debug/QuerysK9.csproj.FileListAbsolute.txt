@@ -16,3 +16,12 @@ E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\QuerysK9\bin\Debug\DTOK9.
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\QuerysK9\obj\Debug\QuerysK9.csprojResolveAssemblyReference.cache
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\QuerysK9\obj\Debug\QuerysK9.dll
 E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\QuerysK9\obj\Debug\QuerysK9.pdb
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\QuerysK9.dll
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\QuerysK9.pdb
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\DAL.dll
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\DTOK9.dll
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\DAL.pdb
+E:\Proyectos\SauloGit\QuerysK9\bin\Debug\DTOK9.pdb
+E:\Proyectos\SauloGit\QuerysK9\obj\Debug\QuerysK9.csprojResolveAssemblyReference.cache
+E:\Proyectos\SauloGit\QuerysK9\obj\Debug\QuerysK9.dll
+E:\Proyectos\SauloGit\QuerysK9\obj\Debug\QuerysK9.pdb

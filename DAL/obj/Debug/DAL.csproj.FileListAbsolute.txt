@@ -1,0 +1,17 @@
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.dll.config
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.dll
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.pdb
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\obj\Debug\DAL.dll
+E:\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\obj\Debug\DAL.pdb
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.dll.config
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.dll
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\bin\Debug\DAL.pdb
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\obj\Debug\DAL.dll
+E:\Proyectos\SaluoProyectos\SMGCONSULTORESSOLUCION\DAL\DAL\obj\Debug\DAL.pdb
+E:\Proyectos\SauloGit\DAL\bin\Debug\DAL.dll.config
+E:\Proyectos\SauloGit\DAL\bin\Debug\DAL.dll
+E:\Proyectos\SauloGit\DAL\bin\Debug\DAL.pdb
+E:\Proyectos\SauloGit\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Proyectos\SauloGit\DAL\obj\Debug\DAL.dll
+E:\Proyectos\SauloGit\DAL\obj\Debug\DAL.pdb
